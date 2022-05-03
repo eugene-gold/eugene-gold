@@ -1,0 +1,11 @@
+*.tmp
+
+/tmp/
+
+index.html
+newpage.html
+style.css
+
+.DS_Store
+Thumbs.db
+.idea
