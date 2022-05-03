@@ -1,4 +1,3 @@
-# Евгений Голдин
 <h1 align="center">Hi there, I'm Eugene</h1>
 <h2 align="center">JavaScript developer student</h2>
 
@@ -26,7 +25,7 @@
    *  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    *  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-***Дополнительная информация:**
+**Дополнительная информация:**
 
 Когда появился Covid, я решил, что хочу заниматься тем, что может не так сильно зависеть от обстановки в мире.  
 Решил сменить профессию в 2021 году, прошел курс _МФТИ и Яндекс: Разработка интерфейсов_.  
