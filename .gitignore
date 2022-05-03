@@ -1,7 +1,7 @@
 *.tmp
 
-/tmp/
-
+tmp/
+img/Thumbs.db
 index.html
 newpage.html
 style.css
