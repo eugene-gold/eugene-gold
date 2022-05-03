@@ -3,7 +3,7 @@
 <h2 align="center">JavaScript developer student</h2>
 
 
-![мое фото](/img/me2.jpg)
+![мое фото](/img/me1.jpg)
 
 **Образование:**
 1. * Иркутский государственный лингвистический универстит
