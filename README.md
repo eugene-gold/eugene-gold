@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Eugene</h1>
 <h2 align="center">JavaScript developer student</h2>
 
-
-![мое фото](/img/me1.jpg)
-
 **Образование:**
 1. * Иркутский государственный лингвистический универстит
         *  Год окончания: 2012
