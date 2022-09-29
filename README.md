@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eugene</h1>
-<h2 align="center">JavaScript developer student</h2>
+<h2 align="center">JavaScript junior developer</h2>
 
 **Образование:**
 1. * Иркутский государственный лингвистический универстит
