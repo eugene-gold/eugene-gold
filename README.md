@@ -1,26 +1,8 @@
-<h3 align="center">Привет! меня зовут Евгений, я занимаюсь Frontend разработкой </h3>
+<h3 align="center">Привет! меня зовут Евгений </h3>
 
 **Информация обо мне:**
  
-В примерах кода, есть несколько учебных проектов, например небольшой магазинчик на React, с Firebase и Redux.
-
-Из коммерческой разработки: работал над созданием страниц для маркетплейса.
-Стек React, TypeScript, немного NextJs, немного Rest Api, и AppoloGraph.
-Есть несколько примеров страниц в репозитории.
-
-*Перечислю курсы которые мне помогли:*
-
-1. * Udemy, Typescript Basic 
- 
-2. * Udemy, React : complete react developer zero to master
-
-
-*Книги:*
-
-1. * Бен Форта: Регулярные выражения - 10 минут на урок
-
-2. * TypeScript Handbook.
-
+В репозиториях храню магазин на React, с Firebase и Redux, решения задач, игру на JS, немного кода с прошлой работы, UI на React, TypeScript.
 
 *Образование:*
 1. * Иркутский государственный лингвистический универстит
@@ -28,9 +10,7 @@
         *  ***Профессия***: Переводчик в сфере проф-коммуникаций
 2. * Иркутский государственный лингвистический универстит
         *  Год окончания: 2008
-        *  ***Профессия***: Товаровед - эксперт. 
-        
-   
+        *  ***Профессия***: Товаровед - эксперт.    
 
 * **Навыки**
    *  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,6 +19,12 @@
    *  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    *  ![ts](https://badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
    *  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+   *  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+   *  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+   *  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+   *  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+   *  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+   *  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 **Разное**
